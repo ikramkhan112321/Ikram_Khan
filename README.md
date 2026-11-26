@@ -1,28 +1,34 @@
-OOPS Labs
+# Hi, I’m Ikram Khan 👋
+Electrical Communication Engineering Student | Aspiring Developer
 
-Course: Object-Oriented Programming (Python)
+🎓 BS Electrical Communication Engineering student at UET Peshawar
 
-Semester: 5th Semester
+💻 Currently learning Object-Oriented Programming and Data Structures using Python.
 
-Department: Electrical Engineering
+⚡ Interested in electronics, engineering, and software development.
 
-University: UET Peshawar, Jalozai Campus
+## 👨‍💻 About Me
 
-About
+I’m an Electrical Communication Engineering student at UET Peshawar, interested in programming and problem-solving.
 
-This repository contains my Python practicals and lab assignments for the OOPS course.
+I’m building my programming foundation through university coursework and practical exercises. I enjoy learning by doing and improving my skills step by step.
 
-Topics
+## 📚 Currently Learning
 
-- Classes and Objects
-- Constructors
-- Inheritance
-- Multiple Inheritance
-- Multilevel Inheritance
-- Polymorphism
-- Abstract Classes
-- Encapsulation
+- Python programming
+- Object-Oriented Programming (OOP)
+- Data Structures
 
-Language: Python
+## 🛠️ Technologies & Tools
 
-Student: Ikram Khan
+- Python
+- Git and GitHub
+- Visual Studio Code
+
+## 🎯 My Goals
+
+- Strengthen my Python programming fundamentals.
+- Understand OOP and Data Structures in depth.
+- Build practical projects.
+- Improve my problem-solving skills.
+- Document my learning journey.
