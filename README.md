@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Ikram Khan 👋</h1>
+<h1 align="center">Ikram Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2C5364&center=true&vCenter=true&width=600&lines=Electrical+Communication+Engineering+Student;Aspiring+Developer;Learning+Python%2C+OOP+%26+Data+Structures" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Electrical+Communication+Engineering+Student;5th+Semester+%7C+UET+Peshawar;Learning+Python%2C+OOP+%26+Data+Structures" alt="Typing animation" />
 </p>
 
 <p align="center">
-  🎓 BS Electrical Communication Engineering @ <b>UET Peshawar, Jalozai Campus</b><br>
-  💻 Learning Object-Oriented Programming and Data Structures using Python
+  🎓 BS Electrical Engineering (Communication), 5th Semester<br>
+  🏫 University of Engineering and Technology Peshawar, Jalozai Campus
 </p>
 
 <p align="center">
@@ -21,7 +21,9 @@
 
 ## 👨‍💻 About Me
 
-I'm an Electrical Communication Engineering student at UET Peshawar with a strong interest in programming and problem-solving. I enjoy learning by doing, and I'm building my foundation step by step through coursework and practical lab work.
+I am an Electrical Communication Engineering student at UET Peshawar, Jalozai Campus. I am interested in electronics, engineering and software development, and I enjoy solving problems through programming.
+
+I am building my programming foundation through university coursework and hands-on lab work, learning by doing and improving step by step.
 
 > ⚡ *Where electrical engineering meets software.*
 
@@ -29,40 +31,42 @@ I'm an Electrical Communication Engineering student at UET Peshawar with a stron
 
 ## 📚 Currently Learning
 
-| Topic | Status |
-|:--|:--:|
-| 🐍 Python Programming | 🟢 In progress |
-| 🧱 Object-Oriented Programming (OOP) | 🟢 In progress |
-| 🗂️ Data Structures | 🟢 In progress |
+| Topic | Focus | Status |
+|:--|:--|:--:|
+| 🐍 **Python** | Core programming and problem-solving | 🟢 In progress |
+| 🧱 **Object-Oriented Programming** | Classes, objects and structured design | 🟢 In progress |
+| 🗂️ **Data Structures** | Lists, tuples, dictionaries and beyond | 🟢 In progress |
 
 ---
 
-## 🧪 Lab Progress (Python for Energy Data Analysis)
+## 🧪 Lab Progress: Python for Energy Data Analysis
 
 | Lab | Topic | Status |
 |:--:|:--|:--:|
 | Lab 1 | Environment setup (Miniconda, VS Code, GitHub) | ✅ |
-| Lab 2 | Python Basic Data Types | ✅ |
-| Lab 3 | Lists and Tuples | ✅ |
+| Lab 2 | Python basic data types | ✅ |
+| Lab 3 | Lists and tuples | ✅ |
 | Lab 4 | Dictionaries | ✅ |
-| Lab 5 – 7 | Coming soon | ⏳ |
+| Lab 5 and onward | In progress | ⏳ |
 
 📂 All lab notebooks are in my [**python-labs**](https://github.com/YOUR_USERNAME/python-labs) repository.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies and Tools
 
-- **Language:** Python
-- **Environment:** Miniconda, Jupyter Notebook
-- **Editor:** Visual Studio Code
-- **Version control:** Git and GitHub
+| Category | Tools |
+|:--|:--|
+| **Language** | Python |
+| **Environment** | Miniconda, Jupyter Notebook |
+| **Editor** | Visual Studio Code |
+| **Version control** | Git and GitHub |
 
 ---
 
 ## 🎯 My Goals
 
-- [x] Set up a professional Python environment
+- [x] Set up a professional Python development environment
 - [ ] Strengthen my Python programming fundamentals
 - [ ] Understand OOP and Data Structures in depth
 - [ ] Build practical projects
@@ -71,14 +75,6 @@ I'm an Electrical Communication Engineering student at UET Peshawar with a stron
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <i>"Learning one lab at a time."</i> 🚀
+  <i>Learning one lab at a time.</i> 🚀
 </p>
